@@ -5,7 +5,7 @@ import * as React from "react"
 import { Pricing, type PricingPlan } from "@/components/ui/pricing-cards"
 import { Tab } from "@/components/ui/pricing-tab"
 
-type ModeKey = "聚合站会员订阅" | "API代理网关" | "ChatGPT代充/成品"
+type ModeKey = "聚合站会员订阅" | "API网关系统" | "ChatGPT官网代充"
 
 const MEMBER_PLANS: PricingPlan[] = [
   {
