@@ -94,7 +94,7 @@ export function HeroSection() {
                 </Link>
               </Button>
               <Button asChild size="lg" variant="outline" className="w-full sm:w-auto bg-background/50 backdrop-blur-sm border-border/50 hover:border-primary/50 hover:bg-primary/5">
-                <Link href="/public/login.html">
+                <Link href="https://login.gptw.top/">
                   （旧）会员登录
                 </Link>
               </Button>
