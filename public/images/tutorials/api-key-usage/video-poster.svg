@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg-gptw-video" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+    <linearGradient id="accent-gptw-video" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg-gptw-video)" />
+  <rect x="90" y="90" width="1020" height="540" rx="28" fill="#0b1120" stroke="#1f2937" stroke-width="2" />
+  <text x="160" y="170" font-size="28" fill="#e2e8f0" font-family="Arial, sans-serif">API Key 配置录屏演示</text>
+  <text x="160" y="210" font-size="18" fill="#94a3b8" font-family="Arial, sans-serif">展示第三方平台接入与模型切换流程</text>
+  <circle cx="600" cy="380" r="90" fill="url(#accent-gptw-video)" opacity="0.2" />
+  <circle cx="600" cy="380" r="74" fill="url(#accent-gptw-video)" />
+  <polygon points="585,350 650,380 585,410" fill="#0b1120" />
+  <text x="160" y="520" font-size="18" fill="#94a3b8" font-family="Arial, sans-serif">包含：Base URL 配置 · API Key 填写 · 模型切换对比</text>
+</svg>
