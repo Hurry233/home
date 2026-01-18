@@ -63,7 +63,7 @@ export {
 } from "./carousel";
 export { Logos3 } from "./logos3";
 export { Logos3Demo } from "./demo";
-export { PricingDemo } from "./pricing-demo";
+
 export { Timeline } from "./timeline";
 export { TimelineDemo } from "./timeline-demo";
 export { WordRotate } from "./word-rotate";
